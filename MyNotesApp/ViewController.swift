@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  MyNotesApp
 //
-//  Created by LABMAC01 on 22/03/19.
+//  Created by Diana Manzano on 22/03/19.
 //  Copyright © 2019 usuario. All rights reserved.
 //
 
